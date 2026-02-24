@@ -1,4 +1,4 @@
-borough,year_and_month,month,year,season,pandemic_period,recovery_success
+borough,year_and_month,month,year,season,pandemic_period,recovered
 lambeth,2010-01-01,january,2010,winter,pre-pandemic,0
 islington,2010-01-01,january,2010,winter,pre-pandemic,0
 croydon,2010-01-01,january,2010,winter,pre-pandemic,0
